@@ -1,2 +1,2 @@
-# Generative-AI-Chatbot
+# LLM-Powered CSV Analysis Agent
 Developed an AI-powered chatbot using Generative AI techniques to enable intelligent, context-aware conversations and provide interactive user experiences.
